@@ -1,0 +1,100 @@
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+
+
+
+  nav {
+    width: 600px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+ 
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  #heart {
+    width: 3rem;
+    margin-right: 1rem;
+    border-width: 1px;
+  
+  }
+  #logo {
+    width: 10rem;
+    margin-right: 1rem;
+    border-width: 1px;
+  
+  }
+  #glass {
+    width: 5rem;
+    margin-right: 1rem;
+    border-width: 1px;
+  
+  }
+  #hexagon {
+    width: 15rem;
+    margin-right: 1rem;
+    border-width: 1px;
+    align-items: center;
+  
+  }
+
+  #config {
+    width: 10rem;
+    margin-right: 1rem;
+    border-width: 1px;
+    text-align: center;
+
+  }
+  
+    #team {
+        width: 10rem;
+        margin-right: 1rem;
+        border-width: 1px;
+        text-align: center;
+    }
+    #features {
+        width: 10rem;
+        margin-right: 1rem;
+        border-width: 1px;
+        text-align: center;
+    }
+    #audit {
+        width: 10rem;
+        margin-right: 1rem;
+        border-width: 1px;
+        text-align: center;
+    }
+  
+    .container {
+        width: 1200px;
+        margin: 0 auto;
+        padding: 75px 0;
+      }
+
+
+#Third {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+
+#orgbutton {
+    padding: .5rem;
+    background-color: black;
+    color: thistle;
+  }
